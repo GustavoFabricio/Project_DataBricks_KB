@@ -1,4 +1,4 @@
 # Project_DataBricks_KB
 Project in DataBricks using PySpark | IMDB database Six Degrees of Kevin Bacon
 
-https://community.cloud.databricks.com/?o=2792024934762791#notebook/2649165183251796/command/3487000344193061
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2792024934762791/2649165183251796/1740250772433229/latest.html
